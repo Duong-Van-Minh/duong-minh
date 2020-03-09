@@ -1,3 +1,4 @@
 function dog(){
-	console.log('i am a dog')
+	this.name =name;
+	this.color = color;
 }
